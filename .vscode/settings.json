@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.sourcePaths": [
+        "src/main/java",
+        "src/test/java"
+    ]
+}
