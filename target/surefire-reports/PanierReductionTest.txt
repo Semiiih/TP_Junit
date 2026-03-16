@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: PanierTest
+Test set: PanierReductionTest
 -------------------------------------------------------------------------------
-Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.010 s -- in PanierTest
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.051 s -- in PanierReductionTest
