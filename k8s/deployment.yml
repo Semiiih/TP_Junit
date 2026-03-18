@@ -6,7 +6,7 @@ metadata:
   labels:
     app: boutique
 spec:
-  replicas: 3 # 3 Pods en permanence
+  replicas: 4 #  Pods en permanence
   selector:
     matchLabels:
       app: boutique
